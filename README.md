@@ -1,4 +1,4 @@
-# hawaii_co2_forecasting
+# hawaii_co2_time_series_forecasting
 
 [Time series dataset from NOAA](https://gml.noaa.gov/ccgg/trends/data.html)
 
